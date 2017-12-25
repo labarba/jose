@@ -14,6 +14,10 @@ Computational learning modules should be complete and immediately usable for sel
 
 Software submissions should make a clear contribution to the available open-source software that supports teaching and learning, or makes an educational process better (e.g., faster, easier, simpler). Examples include software to auto-grade student work, learning management systems, and student collaboration frameworks. Software should be feature-complete (no half-baked solutions).
 
+### What about novelty?
+
+Authors make the case for their submission's contribution in the paper, under the heading "Statement of Need." The criterion is less one of novelty, than _need_: submissions targeting subjects or applications already addressed by other resources _are eligible_, if the authors make a case for why they might be adopted by learners or other instructors.
+
 ### How to prepare a software submission?
 
 Before starting your submission, you should:
