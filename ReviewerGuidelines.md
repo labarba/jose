@@ -11,6 +11,22 @@ If authors decide they cannot meet your requests for improvements, however, they
 
 JOSE provides a checklist for review. You will check off each item, as you proceed with the review, adding comments and suggestions in the Review issue thread. You may also post specific issues on the main repository of the submitted software or module. Be sure to post links between the JOSE Review issue and the submission repository's issue tracker, as needed.
 
+## JOSE aim and scope
+
+We're witnessing a swelling of communities that develop and share tools and practices in computationally enabled teaching and learning. 
+The founding editors of JOSE have been participating in these communities, and recognized a need for a publication to house these scholarly products in a citable form. 
+
+Several journals already exist that publish academic papers reporting on _education research_ —the systematic collection and analysis of data on teaching methods and student learning, and related qualitative studies. 
+JOSE has a different scope. 
+We're focused on the rich and growing work applying computational methods to enhance teaching and learning. 
+For example, a whole new genre of open educational resources (OER) has sprouted out of creating and sharing Jupyter notebooks, in a variety of subjects benefitting from a computational treatment. 
+At the same time, members of open-source communities are creating software tools to automate processes (like grading), facilitate access to computing for learning (via cloud systems), or otherwise enhance teaching and learning with computing. 
+These are valuable contributions, independently of their possible use in education research, and their creators merit publication and citaion credit for them. 
+
+JOSE also aims to disseminate the best practices in creating these scholarly objects, and increase quality via peer review. 
+We want to be a formal, yet open and collegial vehicle for sharing accumulated knowledge in using computing to teach and learn. 
+
+
 ## The JOSE paper
 
 Authors will submit a paper to accompany their software or learning module, consisting of the following minimum items:
@@ -22,7 +38,7 @@ Authors will submit a paper to accompany their software or learning module, cons
 
 Detailed documentation should be present in the repository of the submitted software or module, is reviewed there, and should not be included in the paper.
 
-## Requirements
+## Submission Requirements
 
 ### License
 
