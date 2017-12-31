@@ -62,3 +62,12 @@ The online repository of the software or learning module needs to contain guidel
 
 **Examples:** Potential users of new software rely on well-documented examples to get started. Reviewers will look for examples of use that illustrate beginner and advanced functionality
 
+### Specific requirements for learning modules
+
+**Substance:** 
+A learning module should cover a substantial portion of material to achieve clearly stated learning objectives. The ideal module consists of a few lessons, building up a well-rounded topic, as a full tutorial or _part of_ a term or semester course. This direction follows trends and recommendations to "modularize" courses, both online and on-campus—one example is the 2014 report on the [Future of MIT Education](http://news.mit.edu/2014/future-of-mit-education-0804). 
+The module should contain well-written and complete presentation of the material, weaved with the computatational portions and sample output.
+
+**Pedagogical soundness:**
+Instructional design of the module should be intentional and apparent. For example, the weaving of text, images, code and output  might apply the [worked-example effect](https://en.wikipedia.org/wiki/Worked-example_effect), deliberately. 
+The authors should briefly explain their design in the JOSE paper.
