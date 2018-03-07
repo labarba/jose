@@ -17,6 +17,7 @@ Software submissions should make a clear contribution to the available open-sour
 ### What about novelty?
 
 Authors make the case for their submission's contribution in the paper, under the heading "Statement of Need." The criterion is less one of novelty, than _need_: submissions targeting subjects or applications already addressed by other resources _are eligible_, if the authors make a case for why they might be adopted by learners or other instructors.
+For example, authors could say that they approach a topic differently, that they update material to modern contexts, that the need is born of a new educational program, or a conference tutorial or other informal-learning scenario.
 
 ### How to prepare a software submission?
 
@@ -33,7 +34,7 @@ Once you have those items in place, [submit](http://jose.theoj.org) via the JOSE
 Before starting your submission, you should:
 
 * Have the content in an open repository, under a Creative Commons license (ideally CC-BY), and any code components under an OSI-approved license.
-* Write a short Markdown file titled `article.md`  with title, author names and affiliations, containing a description of the module, statement of need, and key references. 
+* Write a short Markdown file titled `article.md`  with title, author names and affiliations, containing a description of the module, a summary of its contents, a statement of need, and key references. 
 * Ideally, also create a metadata file and include it in your repository. We provide a [script](https://gist.github.com/arfon/478b2ed49e11f984d6fb) that generates the metadata automatically.
 
 Once you have those items in place, [submit](http://jose.theoj.org) via the JOSE web app.
@@ -43,7 +44,7 @@ Once you have those items in place, [submit](http://jose.theoj.org) via the JOSE
 JOSE papers should:
 
 * List all authors and affiliations.
-* For software submissions, describe the functionality of the software, usage and recent experience of use in teaching and learning situations. For learning modules, describe the learning objectives, instructional design, and experience of use in teaching and learning situations.
+* For software submissions, describe the functionality of the software, usage and recent experience of use in teaching and learning situations. For learning modules, describe the learning objectives, content, instructional design, and experience of use in teaching and learning situations.
 * Include a statement of need, explaining the contribution made by the submitted artifacts to computationally enabled teaching and learning, and describing how they might be adopted by others.
 * List key references including a link to the open archive of the sofware or the learning module.
 
