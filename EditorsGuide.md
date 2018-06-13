@@ -32,3 +32,35 @@ When the reviewers are satisfied with the improvements, we ask that they confirm
 
 When a submission is accepted, we ask that the authors create an archive (on Zenodo, figshare, or other) and post the archive DOI in a the REVIEW issue. The editor should add the "accepted" label on the issue, run the command `@whedon set <archive doi> as archive`, and ping the EiC for final processing.
 
+## Sample letter to invite reviewers
+
+Dear Dr. Jekyll,
+
+I found you following links from the page of The Super Project and/or on Twitter. This message is to ask if you can help us out with a submission to JOSE (The Journal of Open Source Education), where I’m editor.
+
+JOSE publishes two types of articles, describing either:
+
+* open educational software tools, or
+* open-source learning modules
+
+The submission I'd like you to review is titled:
+*"great—how everyone learns"*
+
+and the submission repository is at:
+`https://github.com/< … >`
+
+JOSE is a free, open-source, community driven and educator-friendly online journal (no publisher seeking to make revenue from the volunteer labor of researchers!). 
+
+The review process at JOSE is unique: it is open and author-reviewer-editor conversations are encouraged.
+
+JOSE reviews involve downloading and installing the artifacts, and inspecting the repository for key elements. See
+http://joss.theoj.org/about#reviewer_guidelines
+
+Editors and reviewers post comments on the REVIEW issue, and authors respond to the comments and improve their submission until acceptance (or withdrawal, if they feel unable to satisfy the review).
+
+Would you be able to review the `great` submission for JOSE?
+Or, if not, could you recommend someone from your team to help out?
+
+Kind regards,
+
+JOSE Editor.
