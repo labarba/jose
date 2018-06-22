@@ -19,4 +19,4 @@ Command-line actions with @whedon are necessary after peer review is complete, a
 9. Run the commnand `whedon deposit xxx` to deposit the CrossRef metadata for the paper
 10. Wait one or two minutes and check that the DOI correctly resolves.
 11. Go to the REVIEW issue and leave a final nice comment, with thanks to all!
-12. Close the REVIEW issue (@whedon will post an automated message)
+12. Close the REVIEW issue, and @whedon will post an automated message including the code snippet for the author to add the JOSS button to the submission repo. (Requires the "Accepted" label on the issue.)
