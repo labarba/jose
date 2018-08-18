@@ -96,7 +96,7 @@ If you choose to be an editor, run the command `@whedon assign @yourusername as 
 
 8. Assign reviewer(s) with `@whedon assign @username as reviewer` and `@whedon add @username as reviewer`.
 
-9. Create the REVIEW issue with `@whedon start review magic-word=bananas` (it gets automatically populated with one checklist per reviewer).
+9. Create the REVIEW issue with `@whedon start review` (it gets automatically populated with one checklist per reviewer).
     
 10. Close the pre-review issue.
 
@@ -132,4 +132,5 @@ The author makes changes to the submission and reports. Everyone agrees it’s r
 @whedon set 10.0000/zenodo.00000 as archive
 
 # Open the review issue
-@whedon start review```
+@whedon start review
+```
